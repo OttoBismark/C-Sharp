@@ -18,6 +18,16 @@ namespace FirstClass
             Person p1 = new Person("Valerio", "Valentino");
             Console.Write(p1.getName + ", " + p1.getSurname);
             Console.Write("Age : " + Person.age);
+            Console.WriteLine();
+
+            /*New instance of Mother Class*/
+            Mother m = new Mother("Bubba");
+            /*New instance of Daughter Class, derived by the Mother Class*/
+            Daughter d = new Daughter("Forrest", "Gump");
+            Console.Write("mother's name -> " + m.getName);
+            Console.WriteLine();
+            Console.Write("daughter's name -> " + d.getName + "... and second name -> " + d.getSecondName);
+
             Console.ReadLine();
         }
     }
