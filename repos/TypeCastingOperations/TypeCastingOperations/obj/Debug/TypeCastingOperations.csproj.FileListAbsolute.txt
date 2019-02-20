@@ -1,0 +1,6 @@
+C:\Users\Valerio\source\repos\TypeCastingOperations\TypeCastingOperations\bin\Debug\TypeCastingOperations.exe.config
+C:\Users\Valerio\source\repos\TypeCastingOperations\TypeCastingOperations\bin\Debug\TypeCastingOperations.exe
+C:\Users\Valerio\source\repos\TypeCastingOperations\TypeCastingOperations\bin\Debug\TypeCastingOperations.pdb
+C:\Users\Valerio\source\repos\TypeCastingOperations\TypeCastingOperations\obj\Debug\TypeCastingOperations.csproj.CoreCompileInputs.cache
+C:\Users\Valerio\source\repos\TypeCastingOperations\TypeCastingOperations\obj\Debug\TypeCastingOperations.exe
+C:\Users\Valerio\source\repos\TypeCastingOperations\TypeCastingOperations\obj\Debug\TypeCastingOperations.pdb

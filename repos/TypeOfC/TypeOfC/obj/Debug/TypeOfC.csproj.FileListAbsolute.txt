@@ -1,0 +1,6 @@
+C:\Users\Valerio\source\repos\TypeOfC\TypeOfC\bin\Debug\TypeOfC.exe.config
+C:\Users\Valerio\source\repos\TypeOfC\TypeOfC\bin\Debug\TypeOfC.exe
+C:\Users\Valerio\source\repos\TypeOfC\TypeOfC\bin\Debug\TypeOfC.pdb
+C:\Users\Valerio\source\repos\TypeOfC\TypeOfC\obj\Debug\TypeOfC.csproj.CoreCompileInputs.cache
+C:\Users\Valerio\source\repos\TypeOfC\TypeOfC\obj\Debug\TypeOfC.exe
+C:\Users\Valerio\source\repos\TypeOfC\TypeOfC\obj\Debug\TypeOfC.pdb

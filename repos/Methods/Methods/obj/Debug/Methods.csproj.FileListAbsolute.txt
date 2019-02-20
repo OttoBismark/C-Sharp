@@ -1,0 +1,6 @@
+C:\Users\Valerio\source\repos\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\Valerio\source\repos\Methods\Methods\bin\Debug\Methods.exe
+C:\Users\Valerio\source\repos\Methods\Methods\bin\Debug\Methods.pdb
+C:\Users\Valerio\source\repos\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Valerio\source\repos\Methods\Methods\obj\Debug\Methods.exe
+C:\Users\Valerio\source\repos\Methods\Methods\obj\Debug\Methods.pdb

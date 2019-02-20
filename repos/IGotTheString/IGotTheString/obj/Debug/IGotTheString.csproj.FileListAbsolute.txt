@@ -1,0 +1,7 @@
+C:\Users\Valerio\source\repos\IGotTheString\IGotTheString\bin\Debug\IGotTheString.exe.config
+C:\Users\Valerio\source\repos\IGotTheString\IGotTheString\bin\Debug\IGotTheString.exe
+C:\Users\Valerio\source\repos\IGotTheString\IGotTheString\bin\Debug\IGotTheString.pdb
+C:\Users\Valerio\source\repos\IGotTheString\IGotTheString\obj\Debug\IGotTheString.csprojAssemblyReference.cache
+C:\Users\Valerio\source\repos\IGotTheString\IGotTheString\obj\Debug\IGotTheString.csproj.CoreCompileInputs.cache
+C:\Users\Valerio\source\repos\IGotTheString\IGotTheString\obj\Debug\IGotTheString.exe
+C:\Users\Valerio\source\repos\IGotTheString\IGotTheString\obj\Debug\IGotTheString.pdb
